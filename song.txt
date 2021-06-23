@@ -4,6 +4,16 @@ third line
 fourth line
 
 sixth line
+<<<<<<< HEAD
 seventh line
 
 new 1 content
+=======
+<<<<<<< HEAD
+seventh line
+
+new 1 content
+=======
+seventh line
+>>>>>>> 20ceae145d103d3acb2357da7898315358806da3
+>>>>>>> a93ada37279fe6ae81a86f4f13943c68ef16012c
